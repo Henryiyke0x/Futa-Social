@@ -1,2 +1,2 @@
 # Futa-Social
-A Social media application project
+A Social media application project.
