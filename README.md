@@ -1,2 +1,2 @@
 # Futa-Social
-A Social media application project.
+OUr entry for the TECH OFF PROJECT (A Social media application project).
